@@ -59,3 +59,26 @@ A Bootstrap carousel displaying feedback from students who used the platform.
 
 Dark Mode Feature
 The website includes a Dark Mode Toggle button in the navbar.
+
+Screenshots below
+## Home Page
+![Home Page](Home.png)
+![Home Page](Home1.png)
+
+
+## About Page
+![About Page](About1.png)
+![About Page](About2.png)
+
+
+## Courses Page
+![Courses Page](Courses.png)
+
+
+## Registration Page
+![Registration Page](Registration.png)
+
+
+## Contact Page
+![Contact Page](Contact.png)
+
