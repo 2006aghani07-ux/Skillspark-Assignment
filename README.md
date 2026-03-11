@@ -67,7 +67,7 @@ Screenshots below
 
 
 ## About Page
-![About Page](About 1.png)
+![About Page](About1.png)
 ![About Page](About2.png)
 
 
